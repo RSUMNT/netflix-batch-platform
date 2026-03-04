@@ -1,0 +1,4 @@
+pyspark==3.5.0
+great_expectations==0.18.12
+pytest==8.0.0
+pandas==2.2.0

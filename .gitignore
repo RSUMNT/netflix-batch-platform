@@ -1,0 +1,17 @@
+# Data
+ml-25m/
+*.csv
+*.zip
+
+# Environments and Binaries
+pyspark_env/
+*.tar.gz
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# AWS CLI installation files
+aws/
+dist/
